@@ -49,7 +49,7 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="gmail:erenaslan1782@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:erenaslan1782@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
