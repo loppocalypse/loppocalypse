@@ -46,14 +46,6 @@
 
 ---
 
-### 📬 Let's Connect
-
-<p align="center">
-  <a href="https://gmail.com/"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Code+is+how+I+think.;Chaos+is+a+ladder.;Let+the+stack+overflow." />
 </p>
