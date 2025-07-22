@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=880808&center=true&vCenter=true&width=435&lines=Code+is+how+I+think.;Chaos+is+a+ladder.;Let+the+stack+overflow." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3131&center=true&vCenter=true&width=435&lines=Code+is+how+I+think.;Chaos+is+a+ladder.;Let+the+stack+overflow." />
 </p>
