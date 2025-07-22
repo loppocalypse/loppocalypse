@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm loppocalypse 👾</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erenkizilay/static-assets/main/profile-avatars/lowpoly-dark.png" width="200" />
+  <img src="https://avatars.githubusercontent.com/u/89336211?v=4" width="200" style="border-radius: 50%;" alt="profile picture" />
 </p>
 
 <p align="center">
