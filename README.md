@@ -15,7 +15,7 @@
 - 🌐 Building full-stack websites — balancing beauty and logic
 - 🧱 Playing with databases & pipelines
 - 📊 Wrangling data like a street magician
-- 🧬 Curious about how machines "think"
+- 🧬 Curious about cyber crimes
 
 > Not just writing code — shaping tools that think.
 
