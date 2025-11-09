@@ -1,18 +1,33 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=LOPP&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&stroke=FF0080&strokeWidth=2"/>
-
-<img src="https://avatars.githubusercontent.com/u/89336211?v=4" width="180" style="border-radius: 50%;"/>
-
-<br/><br/>
-
-<!-- Better typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=800&color=FF0080&center=true&vCenter=true&width=900&lines=FULL-STACK+ENGINEER;SYSTEM+ARCHITECT;DATA+PIPELINE+SPECIALIST" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=LOPP&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=45&stroke=FF0080&strokeWidth=2"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=7928CA&center=true&vCenter=true&width=700&lines=Building+systems+that+scale;Breaking+templates%2C+creating+legends;Code+crimes+and+digital+misdemeanors" />
+<img src="https://avatars.githubusercontent.com/u/89336211?v=4" width="200" style="border-radius: 50%;"/>
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   "You need people like me... so you can point your fingers and    ║
+║    say, 'That's the bad guy.'"                                     ║
+║                                          — Tony Montana            ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FF0080&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer+⚡+System+Architect;Building+Chaos+•+Engineering+Order;Code+Crimes+%26+Digital+Misdemeanors" />
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3000&pause=1000&color=7928CA&center=true&vCenter=true&width=600&lines=Breaking+templates+since+forever;Turning+coffee+into+commits;Stack+overflow+is+my+love+language)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-@loppocalypse-FF0080?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/loppocalypse)
+![Status](https://img.shields.io/badge/Status-Building_Legends-7928CA?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Location-Cyber_Space-FF0080?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -260,14 +275,14 @@ me.execute()
 ```ascii
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║     ⚡ Built with chaos • Powered by obsession ⚡              ║
+║     ⚡ Built with chaos • Powered by obsession ⚡               ║
 ║                                                                  ║
-║        Breaking conventions • Forging the future                ║
+║        Breaking conventions • Forging the future                 ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**© 2024 lopp** • *Professional rule breaker*
+**© 2025 lopp** • *Professional rule breaker*
 
 <sub>Not your average developer • Not your typical profile</sub>
 
