@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lopp ([21] y.o) ! 
 
-:sunglasses: I'd like to do project that has relation to anime. :ghost:
+:sunglasses: I'd like to do projects that solves real world problems. :ghost:
 
 :page_with_curl: **I'm currently learning:**
 
