@@ -51,7 +51,7 @@ Markdown     3 mins          ░░░░░░░░░░░░░░░░░
 
 <br>
 
-<a href="https://steamcommunity.com/id/76561198389405729">
+<a href="https://steamcommunity.com/profiles/76561198389405729">
   <img src="https://steam-stat.vercel.app/api?profileName=76561198389405729&theme=dark" width="500">
 </a>
 
