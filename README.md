@@ -1,18 +1,33 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=LOPP&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&stroke=FF0080&strokeWidth=2"/>
-
-<img src="https://avatars.githubusercontent.com/u/89336211?v=4" width="180" style="border-radius: 50%;"/>
-
-<br/><br/>
-
-<!-- Better typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=800&color=FF0080&center=true&vCenter=true&width=900&lines=FULL-STACK+ENGINEER;SYSTEM+ARCHITECT;DATA+PIPELINE+SPECIALIST" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=LOPP&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=45&stroke=FF0080&strokeWidth=2"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=7928CA&center=true&vCenter=true&width=700&lines=Building+systems+that+scale;Breaking+templates%2C+creating+legends;Code+crimes+and+digital+misdemeanors" />
+<img src="https://avatars.githubusercontent.com/u/89336211?v=4" width="200" style="border-radius: 50%;"/>
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   "You need people like me... so you can point your fingers and    ║
+║    say, 'That's the bad guy.'"                                     ║
+║                                          — Tony Montana            ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FF0080&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer+⚡+System+Architect;Building+Chaos+•+Engineering+Order;Code+Crimes+%26+Digital+Misdemeanors" />
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3000&pause=1000&color=7928CA&center=true&vCenter=true&width=600&lines=Breaking+templates+since+forever;Turning+coffee+into+commits;Stack+overflow+is+my+love+language)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-@loppocalypse-FF0080?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/loppocalypse)
+![Status](https://img.shields.io/badge/Status-Building_Legends-7928CA?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Location-Cyber_Space-FF0080?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -67,6 +82,18 @@ console.log(lopp.mindset);
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html,css,mysql,mongodb,git,vscode,figma&theme=dark&perline=6" />
 
+<br/><br/>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 ---
@@ -94,6 +121,20 @@ console.log(lopp.mindset);
 <img src="https://github-profile-trophy.vercel.app/?username=loppocalypse&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Stars,Followers" width="98%"/>
 
 </div>
+
+---
+
+## 📊 THIS WEEK I SPENT MY TIME ON
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   9 hrs 37 mins   █████████████████░░░░░░░░   68.42 %
+TypeScript   3 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   28.03 %
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+```
+<!--END_SECTION:waka-->
 
 ---
 
@@ -156,6 +197,17 @@ me.execute()
 
 ---
 
+## 🚧 MY TODOIST STATS
+
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points  
+🌸  Completed 0 tasks today  
+✅  Completed 673 tasks so far  
+⏳  Longest streak is 10 days  
+<!-- TODO-IST:END -->
+
+---
+
 <div align="center">
 
 ## 💀 PHILOSOPHY
@@ -182,7 +234,7 @@ me.execute()
 
 ---
 
-<details open>
+<details>
 <summary><h2>📈 ADVANCED ANALYTICS</h2></summary>
 <br/>
 
@@ -212,15 +264,25 @@ me.execute()
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=FF0080)](https://github.com/loppocalypse)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0d1117&color=7928CA)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=FF0080)](mailto:erenaslan1782@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-loppocalypse-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=FF0080)](https://github.com/loppocalypse)
+[![Telegram](https://img.shields.io/badge/Telegram-@lopp-28a8ea?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lopp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lopp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lopp)
+[![Email](https://img.shields.io/badge/Email-lopp@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopp@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lopp.dev-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 <br/>
 
 ![Views](https://komarev.com/ghpvc/?username=loppocalypse&color=FF0080&style=for-the-badge&label=VISITORS)
 ![Followers](https://img.shields.io/github/followers/loppocalypse?style=for-the-badge&color=7928CA&labelColor=0d1117&logo=github&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/loppocalypse?style=for-the-badge&color=FF0080&labelColor=0d1117&logo=github&label=STARS)
+
+<br/>
+
+### 💰 Support My Work
+
+<a href="https://www.buymeacoffee.com/lopp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<sub>if you like what i do, maybe consider buying me a coffee 🥺👉👈</sub>
 
 </div>
 
