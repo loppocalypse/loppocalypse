@@ -52,7 +52,7 @@ Markdown     3 mins          ░░░░░░░░░░░░░░░░░
 <br>
 
 <a href="https://steamcommunity.com/profiles/76561198389405729">
-  <img src="https://steam-stat.vercel.app/api?profileName=76561198389405729&theme=dark" width="500">
+  <img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile">
 </a>
 
 ---
