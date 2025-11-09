@@ -1,336 +1,74 @@
-<div align="center">
+### Hi there 👋 I'm Moepoi ([21](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! 
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=LOPP&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=45&stroke=FF0080&strokeWidth=2"/>
+:sunglasses: I'd like to do project that has relation to anime. :ghost:
 
-<br/>
+:page_with_curl: **I'm currently learning:**
 
-<img src="https://avatars.githubusercontent.com/u/89336211?v=4" width="200" style="border-radius: 50%;"/>
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   "You need people like me... so you can point your fingers and    ║
-║    say, 'That's the bad guy.'"                                     ║
-║                                          — Tony Montana            ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FF0080&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer+⚡+System+Architect;Building+Chaos+•+Engineering+Order;Code+Crimes+%26+Digital+Misdemeanors" />
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3000&pause=1000&color=7928CA&center=true&vCenter=true&width=600&lines=Breaking+templates+since+forever;Turning+coffee+into+commits;Stack+overflow+is+my+love+language)
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-@loppocalypse-FF0080?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/loppocalypse)
-![Status](https://img.shields.io/badge/Status-Building_Legends-7928CA?style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/Location-Cyber_Space-FF0080?style=flat-square&labelColor=0d1117)
-
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+:star: **Here are some projects that I'm working on:**
 
-<div align="left">
-
-## ⚡ WHO THE HELL AM I
-
-```javascript
-const lopp = {
-    role: "Full-Stack Architect",
-    stack: {
-        languages: ["C", "C++", "Java", "JavaScript", "PHP"],
-        frontend: ["HTML5", "CSS3", "Design Systems"],
-        backend: ["MySQL", "MongoDB", "Scalable APIs"],
-        tools: ["Git", "VSCode", "Figma"]
-    },
-    mindset: "Build it. Break it. Optimize it. Repeat.",
-    obsession: "Cyber forensics & system exploitation",
-    motto: "Templates are for the weak"
-};
-
-console.log(lopp.mindset);
-```
-
-<br/>
-
-### 🎯 CURRENT OPERATIONS
-
-```diff
-+ Engineering scalable backend architectures
-+ Building data pipelines that actually work
-+ Crafting UIs that make designers cry (happy tears)
-+ Investigating cyber crime patterns & vulnerabilities
-! Warning: May cause production incidents (rarely)
-```
-
-</div>
-
-<br clear="right"/>
+- [Cafe Menu](https://github.com/loppocalypse/sapore)
+- [Online Shop](https://github.com/loppocalypse/guestsupply)
 
 ---
 
-<div align="center">
-
-## 🔪 WEAPONRY
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html,css,mysql,mongodb,git,vscode,figma&theme=dark&perline=6" />
-
-<br/><br/>
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 BATTLEFIELD STATS
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=loppocalypse&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=7928CA&text_color=ffffff&ring_color=FF0080&fire_color=7928CA&count_private=true&include_all_commits=true&custom_title=Combat%20Statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=loppocalypse&theme=midnight-purple&hide_border=true&background=0d1117&stroke=FF0080&ring=FF0080&fire=7928CA&currStreakLabel=7928CA&sideLabels=ffffff&dates=9ca3af"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loppocalypse&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=FF0080&text_color=ffffff&langs_count=10&custom_title=Language%20Arsenal"/>
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=loppocalypse&limit=5&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=FF0080&text_color=ffffff&icon_color=7928CA"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=loppocalypse&bg_color=0d1117&color=ffffff&line=FF0080&point=7928CA&area=true&hide_border=true&custom_title=Activity%20Graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=loppocalypse&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Stars,Followers" width="98%"/>
-
-</div>
-
----
-
-## 📊 THIS WEEK I SPENT MY TIME ON
+📊 **This week I spent my time on:**
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   9 hrs 37 mins   █████████████████░░░░░░░░   68.42 %
-TypeScript   3 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   28.03 %
-JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+```txt
+JavaScript   9 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+TypeScript   3 hrs 56 mins   ███████████████████████░░   89.01 %
+CSS          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 <!--END_SECTION:waka-->
 
 ---
 
-<div align="center">
-
-## 🧠 MISSION CONTROL
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Active Targets
-
-```yaml
-Backend Engineering:
-  status: active
-  focus: microservice architecture
-  priority: maximum
-  
-Data Infrastructure:
-  status: optimizing
-  focus: pipeline scalability
-  stability: 94.7%
-
-Frontend Development:
-  status: revolutionary
-  focus: killing templates
-  satisfaction: absolute
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Runtime Loop
-
-```python
-class Developer:
-    def __init__(self):
-        self.mode = "relentless"
-        
-    def execute(self):
-        while self.alive:
-            self.learn()
-            self.build()
-            self.break_intentionally()
-            self.optimize_beyond_reason()
-            
-    def status(self):
-        return "Building the impossible"
-
-me = Developer()
-me.execute()
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚧 MY TODOIST STATS
+🚧 **My Todoist Stats:**
 
 <!-- TODO-IST:START -->
-🏆  8,004 Karma Points  
-🌸  Completed 0 tasks today  
-✅  Completed 673 tasks so far  
-⏳  Longest streak is 10 days  
+🏆 -1 Karma Points  
+🌸 Completed 0 tasks today  
+✅ Completed 0 tasks so far  
+⏳ Longest streak is 6 days
 <!-- TODO-IST:END -->
 
 ---
 
-<div align="center">
-
-## 💀 PHILOSOPHY
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20need%20people%20like%20me...%20so%20you%20can%20point%20your%20fingers%20and%20say%2C%20'That's%20the%20bad%20guy.'&author=Tony%20Montana&border=true&borderColor=FF0080"/>
-
-<br/><br/>
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║  "Code is poetry. My poetry just happens to compile and scale."   ║
-║                                                                   ║
-║  "Break the rules, not production."                               ║
-║                                                                   ║
-║  "Chaos isn't a bug — it's a feature."                            ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 <details>
-<summary><h2>📈 ADVANCED ANALYTICS</h2></summary>
-<br/>
+<summary>:trophy: Github Stats</summary>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loppocalypse&theme=github_dark"/>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loppocalypse&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loppocalypse&theme=github_dark"/>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loppocalypse&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loppocalypse&theme=github_dark&utcOffset=8"/>
-
-</div>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=loppocalypse">
+<img src="https://github-readme-stats.vercel.app/api?username=loppocalypse&show_icons=true&theme=gotham" alt="moepoi" />
+<img src="https://github-profile-trophy.vercel.app/?username=loppocalypse">
 
 </details>
 
----
+<br>
 
-<div align="center">
-
-## 🌐 CONNECT
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-loppocalypse-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=FF0080)](https://github.com/loppocalypse)
-[![Telegram](https://img.shields.io/badge/Telegram-@lopp-28a8ea?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lopp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lopp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lopp)
-[![Email](https://img.shields.io/badge/Email-lopp@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopp@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lopp.dev-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-<br/>
-
-![Views](https://komarev.com/ghpvc/?username=loppocalypse&color=FF0080&style=for-the-badge&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/loppocalypse?style=for-the-badge&color=7928CA&labelColor=0d1117&logo=github&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/loppocalypse?style=for-the-badge&color=FF0080&labelColor=0d1117&logo=github&label=STARS)
-
-<br/>
-
-### 💰 Support My Work
-
-<a href="https://www.buymeacoffee.com/lopp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<sub>if you like what i do, maybe consider buying me a coffee 🥺👉👈</sub>
-
-</div>
+<a href="https://steamcommunity.com/id/76561198389405729">
+  <img src="https://steam-stat.vercel.app/api?profileName=76561198389405729&theme=dark" width="500">
+</a>
 
 ---
 
-<div align="center">
+**Feel free to contact me** :yum:
 
-### ⚡ SYSTEM STATUS
+<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
+<a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
+<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
+<a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
+<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
 
-```diff
-@@ RUNTIME PARAMETERS @@
-
-+ Full-Stack Development ████████████████████ 100%
-+ Backend Architecture  ██████████████████░░  95%
-+ Data Engineering      ████████████████░░░░  88%
-+ UI/UX Design          ██████████████████░░  92%
-+ Cyber Research        ████████████░░░░░░░░  67%
-
-! Coffee Levels         ██████████████████░░  CRITICAL
-! Sleep Schedule        ████░░░░░░░░░░░░░░░░  COMPROMISED
-! Production Stability  ████████████████████  MAINTAINED
-```
-
-### 🎮 ACHIEVEMENTS UNLOCKED
-
-`[FULL-STACK MASTER]` `[TEMPLATE DESTROYER]` `[PIPELINE ARCHITECT]`  
-`[CYBER INVESTIGATOR]` `[DESIGN REBEL]` `[CODE POET]`
-
-</div>
+For freelance work? Do reach at [email](mailto:erenaslan1782@gmail.com) :)
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&reversal=true"/>
+**If you like what I do, maybe consider buying me a coffee/tea** 🥺👉👈
 
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║     ⚡ Built with chaos • Powered by obsession ⚡               ║
-║                                                                  ║
-║        Breaking conventions • Forging the future                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-**© 2025 lopp** • *Professional rule breaker*
-
-<sub>Not your average developer • Not your typical profile</sub>
-
-</div>
+<a href="https://www.buymeacoffee.com/moepoi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
