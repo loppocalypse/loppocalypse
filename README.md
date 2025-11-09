@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Moepoi ([21](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! 
+### Hi there 👋 I'm Lopp ([21](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! 
 
 :sunglasses: I'd like to do project that has relation to anime. :ghost:
 
@@ -52,7 +52,7 @@ Markdown     3 mins          ░░░░░░░░░░░░░░░░░
 <br>
 
 <a href="https://steamcommunity.com/profiles/76561198389405729">
-  <img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile">
+  <img src="YOUR_UPLOADED_IMAGE_URL" width="500">
 </a>
 
 ---
