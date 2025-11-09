@@ -51,9 +51,7 @@ Markdown     3 mins          ░░░░░░░░░░░░░░░░░
 
 <br>
 
-<a href="https://steamcommunity.com/profiles/76561198389405729">
-  <img src="YOUR_UPLOADED_IMAGE_URL" width="500">
-</a>
+[![Steam](https://steamcard.dev/76561198389405729)](https://steamcommunity.com/profiles/76561198389405729)
 
 ---
 
