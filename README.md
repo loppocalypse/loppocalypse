@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lopp ([21] y.o) ! 
+### Hi there 👋 I'm Ælvrix ([21] y.o) ! 
 
 :sunglasses: I'd like to do projects that solves real world problems. :ghost:
 
